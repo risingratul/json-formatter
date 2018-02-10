@@ -32,9 +32,12 @@ Installation
 
 **Some URLs to try it on:**
 
-* http://feeds.delicious.com/v2/json/popular?callback=hello
-* http://gdata.youtube.com/feeds/api/standardfeeds/most_popular?alt=json&v=2
-* http://twitter.com/statuses/public_timeline.json
+* https://jsonplaceholder.typicode.com/posts (100 items)
+* https://jsonplaceholder.typicode.com/comments (500 items)
+* https://jsonplaceholder.typicode.com/albums (100 items)
+* https://jsonplaceholder.typicode.com/photos (5000 items)
+* https://jsonplaceholder.typicode.com/todos (200 items)
+* https://jsonplaceholder.typicode.com/users (10 items)
 
 FAQ
 ---
